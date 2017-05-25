@@ -32,12 +32,14 @@ img{
 }
 #togithubrepos img{
     display:inline;
+    margin-bottom:-3px;
 }
-
+#togithubrepos a{
+    text-decoration:none;
+		}
 #togithubrepos p{
-    text-decoration:  none;
-    color:#333333;
     
+    color:#333333;
     display:inline;
 }
 body{
